@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author cdh
+ * @author ray
  * @since 2021-04-16
  */
 @Mapper

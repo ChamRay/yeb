@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:jwt登录授权过滤器
  * @Date: Created in 18:52 on 2021/4/18
  */

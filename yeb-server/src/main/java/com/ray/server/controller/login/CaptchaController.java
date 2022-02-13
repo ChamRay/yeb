@@ -14,7 +14,7 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:生成验证码
  * @Date: Created in 22:11 on 2021/4/18
  */

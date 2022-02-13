@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import java.util.Collection;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:权限控制-判断用户角色
  * @Date: Created in 15:41 on 2021/4/21
  */

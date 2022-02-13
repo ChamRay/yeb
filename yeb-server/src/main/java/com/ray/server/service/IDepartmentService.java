@@ -7,7 +7,7 @@ import com.ray.server.pojo.rest.Result;
 import java.util.List;
 
 /**
- * @author cdh
+ * @author ray
  * @since 2021-04-24
  */
 public interface IDepartmentService extends IService<Department> {

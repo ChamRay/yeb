@@ -12,7 +12,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**
- * @author cdh
+ * @author ray
  * @since 2021-04-16
  */
 @Data

@@ -7,7 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:公共返回对象
  * @Date: Created in 17:52 on 2021/4/18
  */

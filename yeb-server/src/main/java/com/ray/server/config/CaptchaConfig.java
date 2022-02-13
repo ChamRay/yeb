@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Properties;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:验证码配置类
  * @Date: Created in 22:02 on 2021/4/18
  */

@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:当访问接口没有权限时，自定义返回的结果
  * @Date: Created in 19:13 on 2021/4/18
  */

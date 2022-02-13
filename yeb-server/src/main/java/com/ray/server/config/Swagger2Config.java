@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:Swagger2文档配置类
  * @Date: Created in 19:20 on 2021/4/18
  */

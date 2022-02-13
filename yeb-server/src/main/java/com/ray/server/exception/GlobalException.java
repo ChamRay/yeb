@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.SQLIntegrityConstraintViolationException;
 
 /**
- * @author by cdh
+ * @author by ray
  * @description:全局异常处理
  * @Date: Created in 16:31 on 2021/4/21
  */
